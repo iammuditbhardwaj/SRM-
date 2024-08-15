@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is my node js file",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mudit bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-status-monitor": "^1.3.4",
+    "nodemon": "^3.1.4"
+  }
+}
